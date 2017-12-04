@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
-url: "https://arbitrum.github.io"
+baseurl: ""
+url: "https://arbitrum.github.io/blog"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
